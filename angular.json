@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/git-test-assign",
+            "outputPath": "gitTest/git-test-assign",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
